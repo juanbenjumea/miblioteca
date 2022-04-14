@@ -1,6 +1,7 @@
 function Header() {
+
     return (        
-        <h1 className="text-4xl text-center font-black text-white mb-8">-Miblioteca-</h1>
+        <h1 className="text-4xl text-center font-black text-white mb-8">|| MiBlioteca ||</h1>
     );
 }
 
