@@ -8,6 +8,9 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "@types/vue-feather-icons": "^5.0.2",
+    "feather-icons-react": "^0.5.0",
+    "phosphor-react": "^1.4.1",
     "react": "^17.0.2",
     "react-dom": "^17.0.2"
   },
